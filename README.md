@@ -39,13 +39,6 @@ I built this project because I once thought I wanted to be a woman—but maybe t
 
 Yes queen — all real modules, structured with JSON data, full interaction support, and sample data for most.
 
----
-
-## 🏗️ Project Structure
-
-ishacore/ ├── core.py # Main CLI entry point ├── README.md # Project documentation ├── requirements.txt # Required Python packages ├── data/ # JSON-based persistent storage │ ├── hormone_data.json │ ├── fetish_data.json │ ├── lingerie.json │ ├── rituals.json │ ├── mood.json │ ├── milf_goals.json │ ├── mirror_logs.json │ └── (60+ more JSON files...) └── modules/ # Modular components ├── calendar.py ├── hormone.py ├── hormone_suggester.py ├── health.py ├── maintenance.py ├── body_upkeep.py ├── mirror_check.py ├── pose_tracker.py ├── voice_training.py ├── pre_op.py ├── post_op.py ├── fertility_tracker.py ├── personal_goals.py ├── transformation_progress.py ├── mood_control.py ├── therapy.py ├── spirit_connection.py ├── personality_development.py ├── mirror_affirmations.py ├── sex_planner.py ├── sex_routine.py ├── orgasm_control.py ├── masturbation_tracker.py ├── cum_planner.py ├── session_logger.py ├── session_planner.py ├── erotic_routines.py ├── sexual_task_tracker.py ├── research_sex.py ├── fetish_tracker.py ├── fetish_therapy.py ├── kink_planner.py ├── fantasy_tracker.py ├── roleplay.py ├── innerwear.py ├── toy_tracker.py ├── lingerie_selector.py ├── outfit_coordinator.py ├── milf_module.py ├── client_manager.py ├── payments.py ├── suggestion.py ├── ritual_planner.py ├── submissive_training.py ├── sissy_tasks.py └── (more in active development)
-
----
 
 ## 💖 About ishacore
 
